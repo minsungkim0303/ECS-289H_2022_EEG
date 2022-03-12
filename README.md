@@ -1,1 +1,4 @@
-# ECS289H_2022
+# Visualization of EEG Signal Data Using DNN
+
+Denoising 
+Visualization
