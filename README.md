@@ -1,4 +1,3 @@
 # Visualization of EEG Signal Data Using DNN
 
-Denoising 
-Visualization
+All code for this project will be updated by March 15th.
